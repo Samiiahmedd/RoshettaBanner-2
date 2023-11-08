@@ -9,16 +9,40 @@
 /* Begin PBXBuildFile section */
 		267EF9812AF7EE8E0059FB73 /* RoshettaBannerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267EF9802AF7EE8E0059FB73 /* RoshettaBannerApp.swift */; };
 		267EF9832AF7EE8E0059FB73 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267EF9822AF7EE8E0059FB73 /* ContentView.swift */; };
-		267EF9852AF7EE900059FB73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 267EF9842AF7EE900059FB73 /* Assets.xcassets */; };
 		267EF9882AF7EE900059FB73 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 267EF9872AF7EE900059FB73 /* Preview Assets.xcassets */; };
+		267EF98F2AF7EECA0059FB73 /* SliderBannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 267EF98E2AF7EECA0059FB73 /* SliderBannerView.swift */; };
+		2698D3C92AF848EF00707377 /* CategoryCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2698D3C82AF848EF00707377 /* CategoryCard.swift */; };
+		2698D3CD2AF84A8500707377 /* CategoriesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2698D3CC2AF84A8500707377 /* CategoriesModel.swift */; };
+		2698D3D02AF8595400707377 /* doctorDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2698D3CF2AF8595400707377 /* doctorDetails.swift */; };
+		2698D3D22AF8595D00707377 /* ClinicsDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2698D3D12AF8595D00707377 /* ClinicsDetails.swift */; };
+		2698D3D42AF8596E00707377 /* centersDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2698D3D32AF8596E00707377 /* centersDetails.swift */; };
+		2698D3D62AF8597E00707377 /* SpecialistDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2698D3D52AF8597E00707377 /* SpecialistDetails.swift */; };
+		26A5109D2AFACB2B005FEE7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26A5109C2AFACB2B005FEE7B /* Assets.xcassets */; };
+		26A5109F2AFAED5A005FEE7B /* NearestDoctors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26A5109E2AFAED5A005FEE7B /* NearestDoctors.swift */; };
+		26A510A32AFAEDB4005FEE7B /* NearestDoctorsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26A510A22AFAEDB4005FEE7B /* NearestDoctorsModel.swift */; };
+		26D352BC2AF9A0BC0005890B /* NearestCentersCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26D352BB2AF9A0BC0005890B /* NearestCentersCard.swift */; };
+		26D352C02AF9A1D20005890B /* CentersCardDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26D352BF2AF9A1D20005890B /* CentersCardDetails.swift */; };
+		26F9971B2B0C12830011B112 /* DoctorDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F9971A2B0C12830011B112 /* DoctorDetails.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		267EF97D2AF7EE8E0059FB73 /* RoshettaBanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RoshettaBanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		267EF9802AF7EE8E0059FB73 /* RoshettaBannerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoshettaBannerApp.swift; sourceTree = "<group>"; };
 		267EF9822AF7EE8E0059FB73 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		267EF9842AF7EE900059FB73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		267EF9872AF7EE900059FB73 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		267EF98E2AF7EECA0059FB73 /* SliderBannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBannerView.swift; sourceTree = "<group>"; };
+		2698D3C82AF848EF00707377 /* CategoryCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCard.swift; sourceTree = "<group>"; };
+		2698D3CC2AF84A8500707377 /* CategoriesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesModel.swift; sourceTree = "<group>"; };
+		2698D3CF2AF8595400707377 /* doctorDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = doctorDetails.swift; sourceTree = "<group>"; };
+		2698D3D12AF8595D00707377 /* ClinicsDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClinicsDetails.swift; sourceTree = "<group>"; };
+		2698D3D32AF8596E00707377 /* centersDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = centersDetails.swift; sourceTree = "<group>"; };
+		2698D3D52AF8597E00707377 /* SpecialistDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialistDetails.swift; sourceTree = "<group>"; };
+		26A5109C2AFACB2B005FEE7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		26A5109E2AFAED5A005FEE7B /* NearestDoctors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearestDoctors.swift; sourceTree = "<group>"; };
+		26A510A22AFAEDB4005FEE7B /* NearestDoctorsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearestDoctorsModel.swift; sourceTree = "<group>"; };
+		26D352BB2AF9A0BC0005890B /* NearestCentersCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearestCentersCard.swift; sourceTree = "<group>"; };
+		26D352BF2AF9A1D20005890B /* CentersCardDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CentersCardDetails.swift; sourceTree = "<group>"; };
+		26F9971A2B0C12830011B112 /* DoctorDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorDetails.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +56,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		264A596B2AFA3F0700BBABF7 /* CenterCard */ = {
+			isa = PBXGroup;
+			children = (
+				26D352BB2AF9A0BC0005890B /* NearestCentersCard.swift */,
+			);
+			path = CenterCard;
+			sourceTree = "<group>";
+		};
 		267EF9742AF7EE8E0059FB73 = {
 			isa = PBXGroup;
 			children = (
@@ -51,9 +83,9 @@
 		267EF97F2AF7EE8E0059FB73 /* RoshettaBanner */ = {
 			isa = PBXGroup;
 			children = (
+				2698D3CB2AF84A6800707377 /* Models */,
+				2698D3CA2AF84A6200707377 /* Views */,
 				267EF9802AF7EE8E0059FB73 /* RoshettaBannerApp.swift */,
-				267EF9822AF7EE8E0059FB73 /* ContentView.swift */,
-				267EF9842AF7EE900059FB73 /* Assets.xcassets */,
 				267EF9862AF7EE900059FB73 /* Preview Content */,
 			);
 			path = RoshettaBanner;
@@ -63,8 +95,52 @@
 			isa = PBXGroup;
 			children = (
 				267EF9872AF7EE900059FB73 /* Preview Assets.xcassets */,
+				26A5109C2AFACB2B005FEE7B /* Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2698D3CA2AF84A6200707377 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				26F997152B0C122A0011B112 /* DoctorDetails */,
+				267EF98E2AF7EECA0059FB73 /* SliderBannerView.swift */,
+				26A5109E2AFAED5A005FEE7B /* NearestDoctors.swift */,
+				264A596B2AFA3F0700BBABF7 /* CenterCard */,
+				2698D3CE2AF8590F00707377 /* CategoriesView */,
+				267EF9822AF7EE8E0059FB73 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		2698D3CB2AF84A6800707377 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2698D3CC2AF84A8500707377 /* CategoriesModel.swift */,
+				26D352BF2AF9A1D20005890B /* CentersCardDetails.swift */,
+				26A510A22AFAEDB4005FEE7B /* NearestDoctorsModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		2698D3CE2AF8590F00707377 /* CategoriesView */ = {
+			isa = PBXGroup;
+			children = (
+				2698D3C82AF848EF00707377 /* CategoryCard.swift */,
+				2698D3CF2AF8595400707377 /* doctorDetails.swift */,
+				2698D3D12AF8595D00707377 /* ClinicsDetails.swift */,
+				2698D3D32AF8596E00707377 /* centersDetails.swift */,
+				2698D3D52AF8597E00707377 /* SpecialistDetails.swift */,
+			);
+			path = CategoriesView;
+			sourceTree = "<group>";
+		};
+		26F997152B0C122A0011B112 /* DoctorDetails */ = {
+			isa = PBXGroup;
+			children = (
+				26F9971A2B0C12830011B112 /* DoctorDetails.swift */,
+			);
+			path = DoctorDetails;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +201,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				26A5109D2AFACB2B005FEE7B /* Assets.xcassets in Resources */,
 				267EF9882AF7EE900059FB73 /* Preview Assets.xcassets in Resources */,
-				267EF9852AF7EE900059FB73 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +214,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				267EF9832AF7EE8E0059FB73 /* ContentView.swift in Sources */,
+				2698D3C92AF848EF00707377 /* CategoryCard.swift in Sources */,
+				2698D3D42AF8596E00707377 /* centersDetails.swift in Sources */,
+				26F9971B2B0C12830011B112 /* DoctorDetails.swift in Sources */,
+				26A5109F2AFAED5A005FEE7B /* NearestDoctors.swift in Sources */,
+				26A510A32AFAEDB4005FEE7B /* NearestDoctorsModel.swift in Sources */,
+				26D352C02AF9A1D20005890B /* CentersCardDetails.swift in Sources */,
+				26D352BC2AF9A0BC0005890B /* NearestCentersCard.swift in Sources */,
+				2698D3D22AF8595D00707377 /* ClinicsDetails.swift in Sources */,
+				267EF98F2AF7EECA0059FB73 /* SliderBannerView.swift in Sources */,
+				2698D3D02AF8595400707377 /* doctorDetails.swift in Sources */,
+				2698D3CD2AF84A8500707377 /* CategoriesModel.swift in Sources */,
+				2698D3D62AF8597E00707377 /* SpecialistDetails.swift in Sources */,
 				267EF9812AF7EE8E0059FB73 /* RoshettaBannerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

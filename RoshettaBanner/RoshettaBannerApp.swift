@@ -6,7 +6,6 @@
 //
 
 import SwiftUI
-
 @main
 struct RoshettaBannerApp: App {
     var body: some Scene {
